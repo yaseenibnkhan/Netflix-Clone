@@ -1,5 +1,9 @@
 # Netflix-Clone
 
+https://yaseenibnkhan.github.io/Netflix-Clone/
+
+
+
 here are some screenshots
 
 <img width="1349" height="584" alt="Screenshot 2026-03-10 173114" src="https://github.com/user-attachments/assets/959f5356-1152-432f-94e3-39392d6605a9" />
